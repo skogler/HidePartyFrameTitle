@@ -1,0 +1,4 @@
+package-as: HidePartyFrameTitle
+license-output: LICENSE
+ignore:
+  - .gitignore
